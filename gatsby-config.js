@@ -6,6 +6,7 @@ module.exports = {
     siteUrl: config.siteUrl,
     description: config.siteDescription,
   },
+  pathPrefix: '',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
@@ -16,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'DushyantYadav',
+        short_name: 'DushyantYadav',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
