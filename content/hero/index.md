@@ -5,5 +5,4 @@ subtitle: 'I develop the internet.'
 contactText: 'Say Hello'
 ---
 
-I'm a computer science sophomore, currently pursuing my BE in CS from BITS Pilani (Pilani Campus). I'm a web developer with an inclination towards
-server-side development and DevOps
+I'm a CS junior, currently pursuing my B.E. from BITS Pilani (Pilani Campus). I'm a software developer with an inclination towards server-side development and DevOps.

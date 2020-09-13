@@ -1,12 +1,11 @@
 ---
 date: '2016-12-21'
-title: 'Back End Development Intern'
-company: 'Pepper'
+title: 'SDE Intern'
+company: 'Pepper Content'
 location: 'Mumbai, India'
-range: 'June - Aug 2019'
+range: 'June 2019 - Aug 2019'
 url: 'https://www.peppercontent.in/'
 ---
 
-- Wrote an efficient API for Pepper's Charcha app - an instagram for voice - using node.js and express
+- Developed a lightweight API for Pepper's Charcha app - an instagram for voice - using Node.js, Express and MongoDB.
 - Worked with a team of developers and designers.
-- Researched scalable solutions of sending notifications to hundreds of thousands of users.

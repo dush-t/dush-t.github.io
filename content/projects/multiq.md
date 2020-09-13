@@ -4,8 +4,8 @@ title: 'multiq'
 github: 'https://github.com/dush-t/multiq'
 # external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
 tech:
-  - Go
-company: 'Upstatement'
+  - GoLang
+# company: 'Upstatement'
 showInProjects: true
 ---
 
